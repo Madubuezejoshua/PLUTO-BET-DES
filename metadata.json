@@ -1,0 +1,6 @@
+{
+  "name": "Score90X — World Cup 2026",
+  "description": "Live World Cup 2026 scores, match center, group standings, player stats, and breaking football news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
